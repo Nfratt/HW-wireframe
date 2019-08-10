@@ -1,0 +1,29 @@
+*{box-sizing: border-box}
+
+#container{ 
+width: 960px; 
+}
+body{background: #777}
+header{border:#777 solid 1px;
+text-align: center;
+background: #ffff;
+color: #777;
+margin-left: 200px;
+margin-right: 200px;
+position:flex;
+clear: both;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+nav{
+    border:#777 solid 1px;
+text-align: center;
+background: #ffffff;
+color: #777;
+margin-left: 200px;
+margin-right: 200px;
+margin-top: 10px; 
+position:flex;
+clear: both;
+font-family: Arial, Helvetica, sans-serif;
+}
