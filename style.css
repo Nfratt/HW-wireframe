@@ -10,8 +10,10 @@ background: #ffff;
 color: #777;
 margin-left: 200px;
 margin-right: 200px;
-position:flex;
+padding-bottom: 10px;
+padding-top: 10px;
 clear: both;
+flex: auto;
 font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -26,4 +28,76 @@ margin-top: 10px;
 position:flex;
 clear: both;
 font-family: Arial, Helvetica, sans-serif;
+padding-bottom: 10px;
+padding-top: 10px
+}
+#Section{
+border:#777 solid 1px;
+text-align: center;
+background: #ffff;
+color: #777;
+float: left;
+width: 60%;
+/* margin-left: 200px; */
+/* margin-top: 10px */
+}
+
+#art{
+border:#777 solid 1px;
+background: #777;
+color:#ffffff;
+clear: both;
+text-align: center;
+margin: 10px;
+font-family: Arial, Helvetica, sans-serif;
+
+}
+#inside{
+border:#777 solid 1px;
+text-align: center;
+/* background: #ffff; */
+color: #777;
+margin-left: 10px;
+margin-right: 10px;
+/* height: 100px; */
+font-family: Arial, Helvetica, sans-serif;
+}
+#para{
+    background: #ffff;
+    margin-bottom: 20px
+}
+#b{
+    background: #ffff;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+#aside{
+background: #ffffff;
+text-align: center;
+color: #777;
+float: left;
+width: 40%;
+
+margin-left: 10px
+
+}
+#content{
+    margin-left: 200px;
+margin-right: 200px;
+padding-bottom: 10px;
+padding-top: 10px;
+display: flex;
+}
+
+footer {border:#777 solid 1px;
+    text-align: center;
+    background: #ffff;
+    color: #777;
+    margin-left: 200px;
+    margin-right: 200px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    clear: both;
+    flex: auto;
+    font-family: Arial, Helvetica, sans-serif;
 }
